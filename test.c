@@ -7,5 +7,7 @@ int main(void)
 
 	printf("hello world");
 
+	puts("I INVENTED THE STAR PUNCH.");
+
 	return EXIT_SUCCESS;
 }
